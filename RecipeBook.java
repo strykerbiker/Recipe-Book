@@ -5,7 +5,7 @@ import java.util.ArrayList;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class ReccipeBook
+public class RecipeBook
 {
     private String bookTitle;
     private String bookAuthor;
@@ -13,7 +13,7 @@ public class ReccipeBook
     /**
      * Constructor for objects of class ReccipeBook
      */
-    public ReccipeBook(String title, String author)
+    public RecipeBook(String title, String author)
     {
         this.bookTitle = title;
         this.bookAuthor = author;
